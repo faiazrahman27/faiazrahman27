@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub activity visualization powered by git-tulkun -->
+<h3 align="center">My GitHub Tulkun</h3>
+
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/faiazrahman27/faiazrahman27/output/tulkun/tulkun.gif" width="640" alt="An animated pixel-art Tulkun whale that evolves with my GitHub contributions" />
+  </a>
+</p>
