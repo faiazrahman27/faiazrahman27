@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 268" role="img" aria-labelledby="title desc">
+<title id="title">Md Azmayeen Faiaz</title>
+<desc id="desc">Personal profile banner for a product engineer with an engineering and data focus</desc>
+<defs>
+  <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#081523"/>
+    <stop offset=".55" stop-color="#0E2638"/>
+    <stop offset="1" stop-color="#102B38"/>
+  </linearGradient>
+  <radialGradient id="light" cx=".12" cy=".04" r=".95">
+    <stop offset="0" stop-color="#4387A6" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#4387A6" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#50DBE1"/>
+    <stop offset=".5" stop-color="#8AB8FE"/>
+    <stop offset="1" stop-color="#B49DF0"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="998" height="266" rx="22" fill="url(#ocean)" stroke="#2B4C5F" stroke-width="2"/>
+<rect x="2" y="2" width="996" height="264" rx="22" fill="url(#light)"/>
+<g stroke="#53C8DE" fill="none" stroke-opacity=".13">
+  <path d="M-10 210C145 145 243 260 365 205S660 108 1018 225" stroke-width="2"/>
+  <path d="M-10 229C145 164 243 279 365 224S660 127 1018 244" stroke-width="1.5"/>
+  <path d="M-10 251C145 186 243 301 365 246S660 149 1018 266" stroke-width="1.2"/>
+  <circle cx="80" cy="45" r="92"/><circle cx="945" cy="215" r="115"/>
+</g>
+<g fill="#89E3EF" opacity=".60">
+  <circle cx="93" cy="46" r="2.8"/><circle cx="147" cy="91" r="1.6"/>
+  <circle cx="881" cy="53" r="2.6"/><circle cx="918" cy="103" r="1.8"/>
+  <circle cx="825" cy="219" r="1.7"/><circle cx="174" cy="229" r="2.3"/>
+</g>
+<rect x="346" y="56" width="308" height="3" rx="1.5" fill="url(#accent)" opacity=".95"/>
+<text x="500" y="128" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" fill="#F5FAFF" text-anchor="middle" letter-spacing="0.5">Md Azmayeen Faiaz</text>
+<text x="500" y="174" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" fill="#8DDCE3" text-anchor="middle" letter-spacing="5">PRODUCT ENGINEER</text>
+<text x="500" y="210" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#B7CBD6" text-anchor="middle" letter-spacing="1.15">ENGINEERING  ·  DATA  ·  DIGITAL TRANSFORMATION</text>
+</svg>
