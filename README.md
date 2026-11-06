@@ -51,11 +51,9 @@ I'm a **Product Engineer at Future Food Institute**, working across full-stack d
 **Business, analytics & systems**
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/SAP-0FA6D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
 <img src="https://img.shields.io/badge/Business_Analysis-334155?style=for-the-badge" alt="Business Analysis" />
 <img src="https://img.shields.io/badge/Digital_Transformation-155E75?style=for-the-badge" alt="Digital Transformation" />
-<img src="https://img.shields.io/badge/Agile_Project_Management-4F46E5?style=for-the-badge" alt="Agile Project Management" />
 
 </div>
 
